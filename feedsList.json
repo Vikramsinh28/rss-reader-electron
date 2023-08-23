@@ -1,14 +1,6 @@
 [
   {
-    "title": "CSS-Tricks",
-    "url": "https://css-tricks.com/feed/"
-  },
-  {
-    "title": "Austin Kleon",
-    "url": "http://austinkleon.com/feed/"
-  },
-  {
-    "title": "Lifehacker",
-    "url": "https://lifehacker.com/rss"
+    "name": "test",
+    "url": "https://www.upwork.com/ab/feed/jobs/rss?q=Angular&sort=recency&paging=0%3B10&api_params=1&securityToken=4dff48490002de5b0c58e888de18f773e74e6a2fe26125a5cd8a3f55f831b98174ae9da14ce72b19a094540b5fbda927b2ffc4e8f192b33f76ae831084bc3cea&userUid=1668593382169522176&orgUid=1668593382169522177"
   }
 ]
